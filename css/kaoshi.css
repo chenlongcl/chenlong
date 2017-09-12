@@ -1,0 +1,40 @@
+*{margin: 0;padding: 0;}
+.flt{float: left;}
+.flr{float: right;}
+.clear{clear: both;}
+a{text-decoration: none;color: #000000;}
+a:hover{text-decoration: underline;color: red;}
+body{font-family: "Microsoft YaHei";}
+
+
+.box1{
+    width: 280px;
+    height: 390px;
+    border: 1px solid #AACBEE;
+    border-radius:10px;
+    margin: 50px;}
+.box2{
+    height: 40px;}
+.box2 img{margin-top: 25px;}
+.box21{
+    font-weight:bold;
+    font-size: 16px;
+    margin-top: 24px;
+    margin-left:32px;}
+.box21 span{
+    color: #D80000;
+    font-size: 14px;}
+.box{
+    position: relative;
+    margin:14px 0px 14px 22px;
+    font-size: 12px;}
+.small-c{
+    position: absolute;
+    top:-10px;
+    left: 60px;}
+.box div{
+    line-height: 18px;
+    margin-left:43px;
+    margin-top: 3px;}
+.box div a{line-height: 24px;}
+.box div span{color: #999999}

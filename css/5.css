@@ -1,0 +1,94 @@
+.main2{
+    background: url("../img/练习5-8/1.png") no-repeat 100px center;
+    color: #000000;
+    }
+.main2 a{
+    color: #000000;
+    text-decoration: none;
+    }
+.title31{
+    text-align: center;
+    font-weight: bold;
+    }
+.content32{
+    width:400px;
+    height: 150px;
+    background-color: #FFFFCC;
+    border-collapse: collapse;
+    border: red 1px solid;
+    text-align: center;
+    }
+.content33{
+    width: 400px;
+    height: 150px;
+    border: #000 ;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: #FFFFCC;
+    }
+.content34{
+    width: 400px;
+    height: 150px;
+    border: #000 ;
+    border-collapse: collapse;
+    text-align: center;
+    }
+.color341{
+    background-color:#00FFFF ;
+    }
+.color342{
+    background-color:#009933 ;
+    }
+.content35{
+    width: 400px;
+
+    border: #000 ;
+    border-collapse: collapse;
+    text-align: center;
+    }
+.color351{
+    background-color:#FFFFCC ;
+    }
+.color352{
+    background-color:#009933;
+    }
+
+.main51{
+    width: 350px;
+
+    }
+.title51{
+    font-size: 28px;
+    line-height: 60px;
+    background-color: #B1191A;
+    color: #FFF;
+    padding-left: 10px;
+    }
+.content51{
+    color: #FFFFFF;
+    line-height: 35px;
+    font-size: 24px;
+    margin-top:0px;
+    background-color: #C23131;
+    }
+.content51 a{
+    color: #FFFFFF;
+    text-decoration: none;
+    }
+a:hover{
+    color: red;
+    text-decoration: underline;
+    }
+.content51 li{background: url("../img/练习5-8/asd_03.png") no-repeat 280px center;}
+.list51{list-style:url("../img/images/a_03.png") ;}
+.list52{list-style: url("../img/images/a_06.png")}
+.list53{list-style: url("../img/images/a_08.png")}
+.list54{list-style: url("../img/images/a_10.png")}
+.list55{list-style: url("../img/images/a_12.png")}
+.list56{list-style:url("../img/images/a_14.png")}
+.list57{list-style: url("../img/images/a_16.png")}
+.list58{list-style:url("../img/images/a_18.png")}
+.list59{list-style: url("../img/images/a_20.png")}
+.list510{list-style:url("../img/images/a_22.png")}
+.list511{list-style: url("../img/images/a_24.png")}
+.list512{list-style: url("../img/images/a_26.png")}
